@@ -1,5 +1,4 @@
-# BasicWebPage
-(No Database, In Spanish) HTML - CSS - JS
+HTML - CSS - JS
 
 Hola!, soy Maxi
 Este es un proyecto de pagina web que hice para practicar conceptos basicos de Javascript, Css y Html, 
